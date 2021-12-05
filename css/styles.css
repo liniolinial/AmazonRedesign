@@ -1,0 +1,129 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  margin: 0 0 0 0;
+}
+.amazon{
+  margin: 10px 0 0 0;
+}
+
+.p1 {
+  position: relative;
+  bottom: 225px;
+  text-decoration: none;
+  font-size: 0.73rem;
+}
+.ag{
+  position: relative;
+  text-decoration: none;
+  font-size: 0.70rem;
+  color: #0047ab;
+}
+.ag:hover{
+  color: #e47911;
+  text-decoration-line: underline;
+}
+.Login {
+  position: relative;
+  bottom: 290px;
+  right: 100px;
+  font-size: 21px;
+  font-weight: normal;
+}
+
+.email input {
+  position: relative;
+  bottom: 282px;
+  width: 258px;
+  height: 39px;
+  border-style: none;
+  border-radius: 4px;
+}
+
+.pw input {
+  position:relative;
+  bottom: 261px;
+  width: 258px;
+  height: 39px;
+  border-style: none;
+  border-radius: 4px;
+}
+
+.passvergessen{
+  position:relative;
+  bottom: 257px;
+  left:83px;
+  font-size: 0.68rem;
+  color: #0047ab;
+  font-weight: normal;
+  text-decoration: none;
+}
+.passvergessen:hover{
+  color: #e47911 ;
+  text-decoration-line: underline;
+}
+.btn {
+  position:relative;
+  bottom:240px;
+  font-size: 17px;
+  text-decoration: none;
+}
+.btn {
+  -webkit-border-radius: 2;
+  -moz-border-radius: 2;
+  border-radius: 2px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  background: #37a4ed;
+  padding: 7px 19px 7px 19px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3795d4;
+  text-decoration: none;
+}
+
+.konto{
+  position: relative;
+  top: 63px;
+  left: 120px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #0047ab;
+}
+.konto:hover{
+  color: #e47911;
+  text-decoration-line: underline;
+}
+.bottom-container {
+  background-image: linear-gradient(#e9ecef, #f8f9fa, white);
+  padding: 20px 0 20px;
+  margin-bottom: 0;
+}
+
+.top-container {
+  padding: 20px 0 20px;
+  margin-bottom: 0;
+}
+.rere{
+  top: 20;
+}
+
+.footer-link {
+  color: #0047ab;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+.footer-link:hover{
+  color: #e47911;
+  text-decoration-line: underline;
+}
+.copyright {
+  font-size: 0.75rem;
+  color: #000000;
+  padding: 20px 0;
+}
